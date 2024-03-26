@@ -17,3 +17,5 @@
 ### 5. `country_wise_latest_2021.csv`
 > Giống file country_wise_latest nhưng dữ liệu đến 5/8/2021 + có population
 > Gồm các cột: `Country_Region`, `Confirmed`, `Deaths`, `Recovered`, `Active`, `New cases`, `New deaths`, `New recovered`, `Deaths / 100 Cases`, `Recovered / 100 Cases`, `Deaths / 100 Recovered`, `Confirmed last week`, `1 week change`, `1 week % increase`, `WHO Region`, `Population`
+
+Link đến data: [Folder](https://drive.google.com/drive/folders/1X5nbd8QFwFSWgZkvYOz9YndppHs5rFJY?usp=sharing)
